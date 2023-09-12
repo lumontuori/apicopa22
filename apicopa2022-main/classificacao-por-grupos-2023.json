@@ -1,0 +1,326 @@
+[
+ {
+  "grupo": "A",
+  "selecao": "Holanda",
+  "posicao": 1,
+  "pontos": 7,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 1,
+  "derrotas": 0
+ },
+ {
+  "grupo": "A",
+  "selecao": "Senegal",
+  "posicao": 2,
+  "pontos": 6,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 0,
+  "derrotas": 1
+  
+ },
+ {
+  "grupo": "A",
+  "selecao": "Equador",
+  "posicao": 3,
+  "pontos": 4,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 1,
+  "derrotas": 1
+  
+ },
+ {
+  "grupo": "A",
+  "selecao": "Qatar",
+  "posicao": 4,
+  "pontos": 0,
+  "jogos": 3,
+  "vitorias": 0,
+  "empates": 0,
+  "derrotas": 3
+ },
+ {
+  "grupo": "B",
+  "selecao": "Inglaterra",
+  "posicao": 1,
+  "pontos": 7,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 1,
+  "derrotas": 0
+  
+ },
+ {
+  "grupo": "B",
+  "selecao": "Estados Unidos",
+  "posicao": 2,
+  "pontos": 5,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 2,
+  "derrotas": 0
+ 
+ },
+ {
+  "grupo": "B",
+  "selecao": "Irã",
+  "posicao": 3,
+  "pontos": 3,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 0,
+  "derrotas": 2
+ },
+ {
+  "grupo": "B",
+  "selecao": "Pais de Gales",
+  "posicao": 4,
+  "pontos": 1,
+  "jogos": 3,
+  "vitorias": 0,
+  "empates": 1,
+  "derrotas": 2
+ },
+ {
+  "grupo": "C",
+  "selecao": "Argentina",
+  "posicao": 1,
+  "pontos": 6,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 0,
+  "derrotas": 1
+ },
+ {
+  "grupo": "C",
+  "selecao": "Polônia",
+  "posicao": 2,
+  "pontos": 4,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 1,
+  "derrotas": 1
+ },
+ {
+  "grupo": "C",
+  "selecao": "México",
+  "posicao": 3,
+  "pontos": 4,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 1,
+  "derrotas": 1
+ },
+ {
+  "grupo": "C",
+  "selecao": "Arábia Saudita",
+  "posicao": 4,
+  "pontos": 3,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 0,
+  "derrotas": 2
+ },
+ {
+  "grupo": "D",
+  "selecao": "França",
+  "posicao": 1,
+  "pontos": 6,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 0,
+  "derrotas": 1
+ },
+ {
+  "grupo": "D",
+  "selecao": "Austrália",
+  "posicao": 2,
+  "pontos": 6,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 0,
+  "derrotas": 1
+ },
+ {
+  "grupo": "D",
+  "selecao": "Tunísia",
+  "posicao": 3,
+  "pontos": 3,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 1,
+  "derrotas": 1
+ },
+ {
+  "grupo": "D",
+  "selecao": "Dinamarca",
+  "posicao": 4,
+  "pontos": 1,
+  "jogos": 3,
+  "vitorias": 0,
+  "empates": 1,
+  "derrotas": 2
+ },
+ {
+  "grupo": "E",
+  "selecao": "Japão",
+  "posicao": 1,
+  "pontos": 5,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 0,
+  "derrotas": 1
+ },
+ {
+  "grupo": "E",
+  "selecao": "Espanha",
+  "posicao": 2,
+  "pontos": 4,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 1,
+  "derrotas": 1
+ },
+ {
+  "grupo": "E",
+  "selecao": "Alemanha",
+  "posicao": 3,
+  "pontos": 4,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 1,
+  "derrotas": 1
+ },
+ {
+  "grupo": "E",
+  "selecao": "Costa Rica",
+  "posicao": 4,
+  "pontos": 3,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 0,
+  "derrotas": 2
+ },
+ {
+  "grupo": "F",
+  "selecao": "Marrocos",
+  "posicao": 1,
+  "pontos": 7,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 1,
+  "derrotas": 0
+ },
+ {
+  "grupo": "F",
+  "selecao": "Croácia",
+  "posicao": 2,
+  "pontos": 5,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 2,
+  "derrotas": 0
+ },
+ {
+  "grupo": "F",
+  "selecao": "Bélgica",
+  "posicao": 3,
+  "pontos": 4,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 1,
+  "derrotas": 1
+ },
+ {
+  "grupo": "F",
+  "selecao": "Canada",
+  "posicao": 4,
+  "pontos": 0,
+  "jogos": 3,
+  "vitorias": 0,
+  "empates": 0,
+  "derrotas": 3
+ },
+ {
+  "grupo": "G",
+  "selecao": "Brasil",
+  "posicao": 1,
+  "pontos": 6,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 0,
+  "derrotas": 1
+ },
+ {
+  "grupo": "G",
+  "selecao": "Suiça",
+  "posicao": 2,
+  "pontos": 6,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 0,
+  "derrotas": 1
+ },
+ {
+  "grupo": "G",
+  "selecao": "Camarões",
+  "posicao": 3,
+  "pontos": 4,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 1,
+  "derrotas": 1
+ },
+ {
+  "grupo": "G",
+  "selecao": "Sérvia",
+  "posicao": 4,
+  "pontos": 1,
+  "jogos": 3,
+  "vitorias": 0,
+  "empates": 1,
+  "derrotas": 2
+ },
+ {
+  "grupo": "H",
+  "selecao": "Portugal",
+  "posicao": 1,
+  "pontos": 6,
+  "jogos": 3,
+  "vitorias": 2,
+  "empates": 0,
+  "derrotas": 1
+ },
+ {
+  "grupo": "H",
+  "selecao": "Coreia do sul",
+  "posicao": 2,
+  "pontos": 4,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 1,
+  "derrotas": 1
+ },
+ {
+  "grupo": "H",
+  "selecao": "Uruguai",
+  "posicao": 3,
+  "pontos": 4,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 1,
+  "derrotas": 1
+ },
+ {
+  "grupo": "H",
+  "selecao": "Gana",
+  "posicao": 4,
+  "pontos": 3,
+  "jogos": 3,
+  "vitorias": 1,
+  "empates": 0,
+  "derrotas": 2
+ }
+]

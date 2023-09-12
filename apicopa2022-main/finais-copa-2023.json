@@ -1,0 +1,40 @@
+[
+ {
+  "id": 63,
+  "tipo": "decisão",
+  "fase": "terceiro lugar",
+  "jogo": "",
+  "sigla_mandante": "CRO",
+  "mandante": "CROÁCIA",
+  "gols_mandante": "2",
+  "gols_visitante": "1",
+  "visitante": "MARROCOS",
+  "sigla_visitante": "MAR",
+  "vencedor": "CRO",
+  "perdedor": "MAR"
+ },
+ {
+  "id": 64,
+  "tipo": "decisão",
+  "fase": "final",
+  "jogo": "",
+  "chave": "15",
+  "dia": "DOM",
+  "data": "18/12",
+  "hora": "12:00",
+  "grupo_mandante": "-",
+  "sigla_mandante": "ARG",
+  "mandante": "ARGENTINA",
+  "gols_mandante": "3",
+  "gols_visitante": "3",
+  "visitante": "FRANÇA",
+  "sigla_visitante": "FRA",
+  "grupo_visitante": "-",
+  "prorrogacao": "Não",
+  "placar_prorrogacao": "-",
+  "penaltis": "Sim",
+  "placar_penaltis": "4x2",
+  "vencedor": "ARG",
+  "perdedor": "FRA"
+ }
+]

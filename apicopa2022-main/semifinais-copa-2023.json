@@ -1,0 +1,30 @@
+[
+ {
+  "id": 61,
+  "tipo": "eliminatória",
+  "fase": "semifinais",
+  "jogo": 1,
+  "sigla_mandante": "ARG",
+  "mandante": "ARGENTINA",
+  "gols_mandante": "3",
+  "gols_visitante": "0",
+  "visitante": "CROÁCIA",
+  "sigla_visitante": "CRO",
+  "vencedor": "ARG",
+  "perdedor": "CRO"
+ },
+ {
+  "id": 62,
+  "tipo": "eliminatória",
+  "fase": "semifinais",
+  "jogo": 2,
+  "sigla_mandante": "FRA",
+  "mandante": "FRANÇA",
+  "gols_mandante": "2",
+  "gols_visitante": "0",
+  "visitante": "MARROCOS",
+  "sigla_visitante": "MAR",
+  "vencedor": "FRA",
+  "perdedor": "MAR"
+ }
+]

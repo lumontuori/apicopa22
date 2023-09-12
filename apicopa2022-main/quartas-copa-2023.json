@@ -1,0 +1,58 @@
+[
+ {
+  "id": 57,
+  "tipo": "eliminatória",
+  "fase": "quartas",
+  "jogo": 1,
+  "sigla_mandante": "HOL",
+  "mandante": "HOLANDA",
+  "gols_mandante": "2",
+  "gols_visitante": "2",
+  "visitante": "ARGENTINA",
+  "sigla_visitante": "ARG",
+  "vencedor": "ARG",
+  "perdedor": "HOL"
+ },
+ {
+  "id": 58, 
+  "tipo": "eliminatória",
+  "fase": "quartas",
+  "jogo": 2,
+  "sigla_mandante": "CRO",
+  "mandante": "CROÁCIA",
+  "gols_mandante": "1",
+  "gols_visitante": "1",
+  "visitante": "BRASIL",
+  "sigla_visitante": "BRA",
+  "vencedor": "CRO",
+  "perdedor": "BRA"
+ },
+ {
+  "id": 59,  
+  "tipo": "eliminatória",
+  "fase": "quartas",
+  "jogo": 3,
+  "sigla_mandante": "ENG",
+  "mandante": "INGLATERRA",
+  "gols_mandante": "1",
+  "gols_visitante": "2",
+  "visitante": "FRANÇA",
+  "sigla_visitante": "FRA",
+  "vencedor": "FRA",
+  "perdedor": "ENG"
+ },
+ {
+  "id": 60,
+  "tipo": "eliminatória",
+  "fase": "quartas",
+  "jogo": 4,
+  "sigla_mandante": "MAR",
+  "mandante": "MARROCOS",
+  "gols_mandante": "1",
+  "gols_visitante": "0",
+  "visitante": "PORTUGAL",
+  "sigla_visitante": "POR",
+  "vencedor": "MAR",
+  "perdedor": "POR"
+ }
+]
